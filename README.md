@@ -10,7 +10,7 @@ The project is also available on the [Figma community](https://www.figma.com/com
 
 ## Unlock the full design kit
 
-[Get access to the full version](https://flowbite.design.com/#pricing) of Tailwind Figma which includes 27 hand-crafted pages, responsive screen examples for mobile, tablet, and desktop devices, advanced UI elements using Figma variants, auto-layouts, style guideline, and many more.
+[Get access to the full version](https://flowbite.design/#pricing) of Tailwind Figma which includes 27 hand-crafted pages, responsive screen examples for mobile, tablet, and desktop devices, advanced UI elements using Figma variants, auto-layouts, style guideline, and many more.
 
 - Learn more about Tailwind Figma: [flowbite.design](https://flowbite.design)
 - Learn more about Themesberg: [themesberg.com](https://themesberg.com)
